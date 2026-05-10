@@ -13,12 +13,4 @@ A beautifully designed, offline-first Mood Journal app built with Flutter. MooJo
 - **Export Data**: Easily export your journal entries to a CSV file.
 - **Comfort Bot**: Integrates an AI-driven comfort bot that provides thoughtful, empathetic responses (powered by Hugging Face Inference API).
 
-## 🛠️ Tech Stack
 
-- **Framework**: Flutter & Dart
-- **State Management**: Riverpod (`flutter_riverpod`)
-- **Local Database**: SQFlite
-- **Backend & Auth**: Firebase (Authentication, Cloud Firestore)
-- **Routing**: GoRouter
-- **Charts & Data Visualization**: FL Chart
-- **Typography**: Google Fonts
