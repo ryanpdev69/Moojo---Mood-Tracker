@@ -1,5 +1,7 @@
 # MooJo - Mood Tracker
 
+![Moojo Preview](assets/moojo.jpg)
+
 A beautifully designed, offline-first Mood Journal app built with Flutter. MooJo allows users to track their emotional journey, log deeply reflective entries, and gain valuable insights through analytics — all wrapped in a premium, modern user interface.
 
 ## ✨ Features
