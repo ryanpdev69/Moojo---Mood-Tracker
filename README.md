@@ -21,9 +21,6 @@ Try the app right away without signing up. If you create an account later, your 
 ### 📊 Understand Your Emotional Patterns
 Simple and interactive charts help you see how your mood changes over time, such as weekly and monthly trends.
 
-### 🔒 Keep Your Journal Private
-Protect your entries with PIN lock or biometric security like fingerprint or Face ID.
-
 ### 📤 Export Your Data Anytime
 Download your journal entries whenever you need a backup or personal copy.
 
